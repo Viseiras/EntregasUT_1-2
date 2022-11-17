@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Entregas Acceso a Datos" />
+        <module name="EntregasUT(1-2)" />
       </profile>
     </annotationProcessing>
   </component>
