@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xml>
+    <Discos>
+        <disco>
+            <nombre>Mi carro</nombre>
+            <precio>23.0</precio>
+            <artista>Paquito el chocolatero</artista>
+        </disco>
+    </Discos>
+</xml>

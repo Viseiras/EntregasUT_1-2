@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/main/java/javiervicedo/ejercicios/ut2/Inyeccion.java" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/javiervicedo/ejercicios/ut2/Jdbc1.java" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/javiervicedo/ejercicios/ut2/Rollback.java" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/javiervicedo/ejercicios/ut2/function.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/javiervicedo/ejercicios/ut2/procedure.sql" dialect="PostgreSQL" />
+  </component>
+</project>

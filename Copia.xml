@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Discos>
+    <Discos>
+        <artista>El bicho</artista>
+        <nombre>SIuuuuuuuuu</nombre>
+        <precio>34.23</precio>
+    </Discos>
+    <Discos>
+        <artista>King</artista>
+        <nombre>Papa</nombre>
+        <precio>72.0</precio>
+    </Discos>
+</Discos>
